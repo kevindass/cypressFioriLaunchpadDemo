@@ -1,0 +1,5 @@
+{
+    "experimentalComponentTesting": true,
+    "componentFolder": "cypress/component",
+    "baseUrl": "https://launchpaddf1.lb.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html/?spnego=disabled&sap-client=320&sap-language=EN#Shell-home"
+  }
