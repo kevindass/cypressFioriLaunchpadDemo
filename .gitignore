@@ -1,2 +1,6 @@
-logs/
+#macOS Files
+.DS_Store
+# cypress Folders
 cypress/videos/
+#Others
+logs/
